@@ -1,0 +1,1 @@
+In this lesson we will look at methods used to convert between binary and denary numbers.

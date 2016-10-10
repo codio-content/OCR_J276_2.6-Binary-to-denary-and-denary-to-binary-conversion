@@ -1,0 +1,128 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3260476868",
+  "source": {
+   "name": "Question1 ",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "10111011 =\t<<<187>>>",
+   "tokens": {
+    "blank": [
+     "187"
+    ],
+    "text": [
+     "10111011 =\t",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-393584929",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "01010101 = <<<85>>>",
+   "tokens": {
+    "blank": [
+     "85"
+    ],
+    "text": [
+     "01010101 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2166329618",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**Convert the following binary number to denary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "11100111 = <<<231>>>",
+   "tokens": {
+    "blank": [
+     "231"
+    ],
+    "text": [
+     "11100111 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1111668080",
+  "source": {
+   "name": "Question4",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "113 =  <<<01110001>>>",
+   "tokens": {
+    "blank": [
+     "01110001"
+    ],
+    "text": [
+     "113 =  ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3056337959",
+  "source": {
+   "name": "Question 5",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "249 = <<<11111001>>>",
+   "tokens": {
+    "blank": [
+     "11111001"
+    ],
+    "text": [
+     "249 = ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1155775961",
+  "source": {
+   "name": "Question 6",
+   "showName": false,
+   "instructions": "**Convert the following denary number to binary.**",
+   "points": "1",
+   "showValues": false,
+   "text": "69 = <<<01000101>>>",
+   "tokens": {
+    "blank": [
+     "01000101"
+    ],
+    "text": [
+     "69 = ",
+     0
+    ]
+   }
+  }
+ }
+]

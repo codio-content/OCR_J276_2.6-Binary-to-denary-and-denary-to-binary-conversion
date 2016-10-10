@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "id": "8b57cc88-cb81-97cf-0925-9bba67fa34eb",
+   "title": "Binary to denary and denary to binary conversion",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-to-denary-and-denary-to-binary-conversion-8b57.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d01582c5-47fa-ba5e-88b2-df19f781b7da",
+   "title": "Number systems",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Number-systems-d015.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9a7ae63a-f8f5-7cc3-35cc-dc308d825439",
+   "title": "Converting binary to denary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Converting-binary-to-denary-9a7a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "80754647-5172-f7b0-9187-934197e64936",
+   "title": "Converting denary to binary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Converting-denary-to-binary-8075.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "49c2d308-63f7-b4aa-4657-2b2017ee9217",
+   "title": "Activities",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Activities-49c2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d109c835-3be2-c350-9f17-312ce7e97c15",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-d109.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cc44bd4e-9f0e-9850-221b-5697784f26ce",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-cc44.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
