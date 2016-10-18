@@ -1,4 +1,7 @@
 Now take a look at the following questions and see how much you have learned.
+
+**N.B. When asked to provide answers in binary, all require 8 digits (even if they would commence with '0')**
+
 {Check It!|assessment}(fill-in-the-blanks-3260476868)
 |||guidance
 # Solution
