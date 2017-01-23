@@ -13,11 +13,11 @@ Now take a look at the following questions and see how much you have learned.
 01010101 = **85**
 |||
 {Check It!|assessment}(fill-in-the-blanks-2166329618)
-
 |||guidance
 # Solution
 11100111 = **231**
-|||{Check It!|assessment}(fill-in-the-blanks-1111668080)
+|||
+{Check It!|assessment}(fill-in-the-blanks-1111668080)
 |||guidance
 # Solution
 113 =  **01110001**
